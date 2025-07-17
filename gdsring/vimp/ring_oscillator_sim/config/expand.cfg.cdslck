@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      user3
+HostName                       vlsilab.nitj.ac.in
+ProcessIdentifier              4211
+ProcessCreationTime_UTC        1741414977
+ProcessCreationTime_Readable   Sat Mar  8 11:52:57 2025 IST
+AppIdentifier                  /home/install/IC618/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       Not specified
+FilePathUsedToEditLock         /home/user3/Desktop/vimp/ring_oscillator_sim/config/expand.cfg
+TimeEditLocked                 Sat Mar  8 15:35:52 2025 IST
